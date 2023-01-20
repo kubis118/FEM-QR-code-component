@@ -89,7 +89,7 @@ body {
 }
 
 .container {
-  width: 300px;
+  width: 320px;
   margin-top: 70px;
   margin-inline: auto;
   background-color: var(--cl-white);
